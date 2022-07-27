@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Formatação de Texto HTML</title>
+	<style>
+	body{
+		text-align:center;
+		background-color: grey;
+		color: cyan;
+	}
+	
+	</style>
+</head>
+
+<body>
+	
+	<h1>Este é o titulo 1</h1>
+	<h2>Este é o titulo 2</h2>				
+	<h3>Este é o titulo 3</h3>
+	<h4>Este é o titulo 4</h4>
+	<h5>Este é o titulo 5</h5>
+	<h6>Este é o titulo 6</h6>
+	<hr />
+	<p>texto normal</p>
+	<p><b>texto negrito</b></p>
+	<p><i>texto italico</i></p>
+	<p><mark>texto marcado</mark></p>
+	<p>texto <strong>maior</strong></p>
+	<p>texto <small>menor</small></p>
+	<p>texto <del>excluido</del></p>
+	<p>texto <ins>inserido</ins></p>
+	<p> X <sub>2</sub></p>
+	<p> X <sup>2</sup></p>
+	
+	
+	
+</body>
+
+</html>
