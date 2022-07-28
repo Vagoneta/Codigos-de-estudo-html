@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+	
+	<meta charset="UFT-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tabelas</title>
+
+	<style>
+		
+		body{
+			border: solid 5px;
+			padding-bottom: 50px;
+			background-color: #B0C4DE;
+		}
+		table{
+			border: solid 5px;
+			margin-bottom: 20px;
+		}
+		th{
+			background-color: #20B2AA;
+		}
+		caption{
+			color: #008080;
+		}
+		
+	</style>
+</head>
+
+<body>
+	
+	<h1>Tabela de usuários: </h1>
+	<h4>Tabela de usuários cadastrados no sistema</h5>
+	
+	<table>
+		
+		<tr>
+			<th>ID</th>
+			<th>Nome</th>
+			<th>Sobrenome</th>
+			<th>Email</th>
+			<th>Status</th>
+			<th>Criado em: </th>
+ 		</tr>
+		
+		<tr>
+			<th>1</th>
+			<th>Júlio</th>
+			<th>César</th>
+			<th>julio@cesar.com</th>
+			<th>Ativo</th>
+			<th>20/07/2022</th>
+		</tr>
+		
+		<tr>
+			<th>2</th>
+			<th>Tiago</th>
+			<th>Fernando</th>
+			<th>tiago@fernando.com</th>
+			<th>Ativo</th>
+			<th>21/03/2022</th>
+		</tr>
+		<caption><b>Atualizado em 28/07/2022</b></caption>
+		
+	</table>
+	
+	<table>
+		
+		<tr>
+			<th>ID</th>
+			<th>Empresa</th>
+			<th>Segmento</th>
+			<th>Enderaço do site </th>
+		</tr>
+		
+		<tr>
+			<th>1</th>
+			<th>Youtube</th>
+			<th>Plataforma de videos e streaming </th>
+			<th><a href="https://www.youtube.com" target="_blank"> Youtube.com </a> </th>
+		</tr>
+		
+		<tr>
+			<th>2</th>
+			<th>twitch </th>
+			<th>Plataforma de streaming</th>
+			<th><a href="https://www.twitch.com" target="_blank"> Twitch.com </a> </th>
+		</tr>
+		
+		<tr>
+			<th>3</th>
+			<th>Spotify </th>
+			<th>Plataforma de Músicas</th>
+			<th><a href="https://www.spotify.com" target="_blank"> Spotify.com </a></th>
+		</tr>
+		
+		<tr>
+			<th>4</th>
+			<th>Twitter</th>
+			<th>Rede Social</th>
+			<th><a href="https://www.twitter.com" target="_blank"> Twitter.com</a></th>
+		</tr>
+		
+		<tr>
+			<th>5</th>
+			<th>Instagram</th>
+			<th>Rede Social</th>
+			<th><a href="https://www.instagram.com" target="_blank"> Instagram.com</a></th>
+		</tr>
+		<caption><b>Tabelas de Sites</b></caption>
+	</table>
+	
+</body>
+
+</html>
