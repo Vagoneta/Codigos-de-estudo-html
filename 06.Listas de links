@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+	<meta charset="UFT-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Listas</title>
+	
+	<style>
+		a{
+			text-decoration: none;
+		}	
+	
+	</style>
+</head>
+
+<body>
+
+</body>
+	<h4> Lista ordenada</h4>
+	<ol>
+		<li><a href="https://www.youtube.com">Site 1 </a> </li>
+		<li><a href="https://www.spotify.com">Site 2 </a> </li>
+		<li><a href="https://www.facebook.com">Site 3 </a> </li>
+	</ol>
+	
+	<h4> Lista não ordenada</h4>
+	<ul>
+		<li><a href="https://www.twitter.com">Site 1 </a> </li>
+		<li><a href="https://www.twitch.com">Site 2 </a> </li>
+		<li><a href="https://www.teamcherry.com">Site 3 </a> </li>
+	</ul>
+
+</html>
