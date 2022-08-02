@@ -1,0 +1,51 @@
+body{
+	
+}
+
+.divSuperior{
+	min-height: 500px;
+	background-color: red;
+	margin-top: 100px;
+	padding: 100px;
+	padding-left: 100px;
+}
+.divSuperior h2{
+	background-color: #fff;
+	
+}
+.divCentral{
+	min-height: 500px;
+	background-image: url("../img/thumb-1920-1082567.jpg");
+	background-attachment: fixed;
+}
+.divInferior{
+	min-height: 500px;
+}
+h1{
+	color:#FFE7BA
+}
+
+
+.container-lista{
+	color: #fff;
+	background-color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	min-height: 100hv;
+}
+.titulo-lista{
+	color: #84c754
+}
+.lista{
+	list-style-type: none;
+}
+.lista li{
+	margin-top: 15px;
+}
+.lista li a{
+	text-decoration: none;
+	color: #82c754;
+}
+.lista li a: hover{
+	background-color: #008B45;
+	color: #fff;
+}
