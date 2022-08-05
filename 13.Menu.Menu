@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Menu</title>
+	<link rel="stylesheet" href="css/style.css">
+	<script src="https://kit.fontawesome.com/b10e773668.js" crossorigin="anonymous"></script>
+	
+</head>
+
+<body>
+
+	<ul>
+	
+		<li><a href="inicio.html" class="active">Início</a></li>
+		<li><a href="noticias.html">Noticias</a></li>
+		<li><a href="contatos.html">Contatos</a></li>
+		<li><a href="sobre.html">Sobre</a></li>
+		<li class="menu-login"><a href=#>Login</a></li>
+	
+	</ul>
+
+	<div class="conteudo">
+		
+		<h1>Bem Vindo ao meu site!</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta, tellus at facilisis aliquam, sapien libero egestas nisi, sit amet mattis lectus lorem in massa. Nunc tortor urna, tempor ac metus vel, pretium varius purus. Pellentesque sed gravida dolor, ac rhoncus nibh. Suspendisse placerat tincidunt massa, in placerat dolor ullamcorper vel. Vestibulum ut dui condimentum, accumsan felis id, bibendum erat. Nullam imperdiet dui in diam bibendum, id malesuada neque lobortis. Vivamus varius lacus sed euismod fringilla. Sed consequat posuere efficitur.
+
+Nam egestas felis mauris, vitae mollis diam maximus vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis eu tellus in sem vestibulum varius eget a leo. Vivamus vulputate faucibus sagittis. Quisque et enim vitae ligula vulputate hendrerit a in mi. Ut eget ex ante. Proin accumsan, tellus ut ultricies consectetur, elit ligula gravida nunc, eget mattis enim mauris et sem. In iaculis neque at risus vestibulum, at rutrum dui efficitur. Mauris vel semper sem. Etiam faucibus ultricies arcu, vel egestas nulla accumsan at. Cras sit amet porttitor leo. Donec pulvinar sem ut sem porta, vel sodales risus fermentum. Nulla in viverra nibh, sed vulputate metus. Donec luctus lorem nisi, vel volutpat ante porta vitae.
+
+Morbi diam risus, molestie scelerisque sem vel, auctor consectetur quam. Sed in nisi convallis, pellentesque nibh sed, placerat ante. Nunc vel tempus quam. Nullam dictum, diam eget semper elementum, sem nunc aliquet felis, vel accumsan nisl felis vel augue. Curabitur euismod nisi id gravida gravida. Vestibulum eu nisi in metus auctor porta quis pretium nulla. Sed consectetur dolor a odio placerat dignissim. Nulla eros nulla, dapibus et tincidunt at, dictum convallis nulla. Phasellus ut tortor interdum, ornare arcu a, finibus magna. Ut enim lorem, tempor non ex sit amet, fermentum convallis arcu. Cras a tortor a libero lobortis faucibus facilisis vel velit. Nam purus orci, porta eget volutpat id, ultrices a mauris. Nullam vestibulum turpis augue.</p>
+		
+	</div>
+	
+	<div class="conteudo conteudo-img">
+		
+		<div class="card"><img class="imagem1" src="img/imagem1.jpg"></div>
+		<div class="card"><img class="imagem2" src="img/imagem2.jpg"></div>
+		<div class="card"><img class="imagem3" src="img/imagem3.jpg"></div>
+		<div class="card"><img class="imagem4" src="img/imagem4.jpg"></div>
+		
+	</div>
+	
+		
+	<div class="conteudo">
+	
+	
+	</div>
+	
+</body>
+
+</html>
