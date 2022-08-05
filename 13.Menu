@@ -53,3 +53,125 @@ Morbi diam risus, molestie scelerisque sem vel, auctor consectetur quam. Sed in 
 </body>
 
 </html>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'BhuTuka Expanded One', cursive;
+	font-family: 'Edu VIC WA NT Beginner', cursive;
+	font-family: 'Roboto Slab', serif;
+}
+
+
+ul{
+	margin: 0px;
+	padding: 15px;
+	list-style-type: none;
+	background-color: #333;
+}
+
+li{
+	display: inline;
+}
+
+li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 16px;
+}
+
+li a:hover:not(.active){
+	background-color: #342;
+}
+
+.active{
+	background-color: #2e8b57;
+}
+
+.menu-login{
+	float: right;
+}
+
+div.conteudo{
+	min-height: 500px;
+	background-color: #111;
+	padding: 10px;
+	color: #fff;
+}
+
+div.conteudo h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 40px;
+	text-shadow: 3px 3px 5px #2e8b57;
+	animation: qualquerValor 3s linear infinite;
+	/* animation: qualquervalor'declaranome' 3s'tempo' linear'modo' infinite'modo2'; */
+	
+}
+div.conteudo p{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 60px;
+	text-align: justify;
+	text-indent: 75px;
+	letter-spacing: 2px;
+	line-height: 2;
+}
+div.conteudo-img{
+	background-image: url('../img/gif.gif');
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+}
+
+div.card{
+	border: solid 10px #FFA500;
+	border-radius: 40px;
+	background-color: black;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	min-width: 20%;
+	min-height: 100px;
+}
+
+img.imagem1{
+	height: 350px;
+	width: 500px;
+	border-radius: 40px;
+}
+
+img.imagem2{
+	height: 350px;
+	width: 500px;
+	border-radius: 40px;
+}
+
+img.imagem3{
+	height: 350px;
+	width: 500px;
+	border-radius: 40px;
+}
+
+img.imagem4{
+	height: 350px;
+	width: 500px;
+	border-radius: 40px;
+}
+
+@keyframes qualquerValor{
+	0%{
+		opacity: 0.1;
+	}
+	50%{
+		opacity:0.8;
+	}
+	100%{
+		opacity:0.1;
+	}
+}
+
+
+
+@keyframes
