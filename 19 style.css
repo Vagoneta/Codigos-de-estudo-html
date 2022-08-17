@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: sans-serif;
+	background-color: purple;
+}
+
+div#div-lista{
+	min-height: 50vh;
+	margin-left: 10vw;
+	margin-right: 10vw;
+	text-align: left;
+	background-color: #B0C4DE;
+	border: solid 1px #999;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px 5px rgba(0, 0, ,0 ,0.5);
+	font-size: 36px;
+}
