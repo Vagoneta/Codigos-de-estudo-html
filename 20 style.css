@@ -1,0 +1,13 @@
+body{
+	font-family: sans-serif;
+	text-align: center;
+	background-color: rgb(220, 220, 220);
+}
+a{
+	color: white;
+	background-color: rgb(20, 20, 20);
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
