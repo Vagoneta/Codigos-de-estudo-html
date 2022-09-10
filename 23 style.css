@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(59, 59, 197);
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+div.tela{
+    text-align: center;
+    margin-top: 17vh;
+}
+div.login{
+    text-align: center;
+    background-color: rgb(202, 193, 193);
+    min-height: 37.6vh;
+    max-width: 25vw;
+    margin-top: 6vh;
+    margin-left: 37.6vw;
+}
+div.login div.inputs{
+    float: left;
+    font-size: 30px;
+    margin: 0;
+}
+div.login div.inputs p{
+    margin-right: 17vw;
+}
+#iusu{
+ margin-left: 1vh;
+ margin-right: 10vw;
+ width: 15vw;
+ height: 2.4;
+}
+#isenha{
+    margin-left: 2vh;
+    margin-right: 10vw;
+    width: 15vw;
+    height: 2.4;
+}
+div.tela div.inputs div.botao{
+    text-align: center;
+    width: 24.7vw;
+    height: 5vh;
+    margin-top: 5vh;
+}
+#blogar{
+   text-align: center;
+    width:24.7vw;
+    height: 5vh;
+    background-color: rgb(31, 175, 31);
+    border: solid 3px white;
+    margin-left: 3px;
+    font-size: 35px;
+}
